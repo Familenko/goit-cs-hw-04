@@ -5,7 +5,7 @@ from collections import defaultdict
 
 start_time = time.time()
 
-keywords = ['this', 'down', 'not']
+keywords = ['bilders', 'raciality']
 
 
 def search_files(files):
